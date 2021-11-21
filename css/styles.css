@@ -4,6 +4,7 @@
 /* ============================================= */
 /*              Utilities Imports                   */
 /* ============================================= */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans&display=swap");
 /* ============================================= */
 /*              Base Imports                   */
 /* ============================================= */
@@ -369,6 +370,7 @@ a {
 .headline-primary {
   color: #58e1c1;
   margin-left: 10px;
+  font-family: "Noto Sans", sans-serif;
 }
 .headline-secondary {
   font-weight: 300;
