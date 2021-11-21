@@ -5,8 +5,9 @@ $malibu : #51ddfc;
 $silver: #ccc;
 $white: #fff;
 
-
 $color-text-primary: #777;
+
+
 
 //Font-stack Variables
 
@@ -15,3 +16,8 @@ $font-stack-primary: 'Lato', sans-serif;
 //Border Variables
 
 $radius: 5px;
+
+
+//Media Query Breakpoints
+
+$brk-narrow: '(max-width: 768px)';
